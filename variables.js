@@ -12,6 +12,12 @@ console.log(b)
 
 b = "Super"
 
+let is_admin = true
+let is_mod = false
+
+console.log(is_admin)
+console.log(is_mod)
+
 console.log(a)
 console.log(b)
 console.log(z)
